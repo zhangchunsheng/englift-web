@@ -31,7 +31,7 @@ $url = 'https://api.dictionaryapi.dev/api/v2/entries/en/' . urlencode($word);
 $ch = curl_init($url);
 curl_setopt_array($ch, [
     CURLOPT_RETURNTRANSFER => true,
-    CURLOPT_TIMEOUT => 8,
+    CURLOPT_TIMEOUT => 60,
     CURLOPT_CONNECTTIMEOUT => 5,
     CURLOPT_USERAGENT => 'EngLift/1.0 (https://englift.luomor.com)',
     CURLOPT_SSL_VERIFYPEER => true,
