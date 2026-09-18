@@ -11,6 +11,7 @@
 - [音标图谱](https://englift.luomor.com/phonemes)：48 个国际音标（12 单元音 + 8 双元音 + 28 辅音），清浊成对排列，附口型提示与易混音对比（如 /iː/ vs /ɪ/、/s/ vs /θ/）
 - [句子拆解](https://englift.luomor.com/sentences)：英语五大基本句型（主谓 S+V、主谓宾 S+V+O、主系表 S+V+P、双宾 S+V+Oi+Od、宾补 S+V+O+C）的词块级拆解
 - [随机单词](https://englift.luomor.com/words)：全量词库随机抽词（小学 819 / 初中 2289 / 高中 3536 / 四级 2607 / 六级 2345 / 考研 4533，共 16129 词），含音标、释义、双语例句、发音播放与录音回放
+- [英语词典](https://englift.luomor.com/dict)：输入单词查释义与例句，本地 16129 词离线秒查并标注所属级别词库，在线词典提供真人发音与英英释义
 - [配套练习](https://englift.luomor.com/quiz)：时态/词形/介词/音标/句法五个专项练习
 - [错题复习](https://englift.luomor.com/mistakes)：错题自动收录与复习
 
