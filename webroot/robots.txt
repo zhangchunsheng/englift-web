@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# AI 爬虫（GEO：允许主流 AI 搜索引擎抓取）
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://englift.luomor.com/sitemap.xml

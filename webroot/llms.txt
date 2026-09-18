@@ -1,0 +1,21 @@
+# EngLift 英语学习实验室
+
+> EngLift（https://englift.luomor.com/）是一个面向中文学习者的英语可视化学习网站。核心方法：把抽象语法概念画出来——用时间线学时态、用街区地图学介词、用图谱学音标、用词块拆解学句子结构。全部内容配双语例句，并提供选择/填空/排序练习与错题本。免费、无需注册。
+
+## 页面
+
+- [学习目录](https://englift.luomor.com/)：模块导航与学习统计
+- [时态时间线](https://englift.luomor.com/tenses)：12 个英语时态在同一时间轴上的点/区间可视化，含结构公式（如 have/has + done）、时间标志词（already/since/for 等）与双语例句
+- [词形变化](https://englift.luomor.com/verbs)：70+ 初中不规则动词表，按 AAA/ABB/ABA/ABC 变化规律分组，含三态与双语例句
+- [介词街区地图](https://englift.luomor.com/prepositions)：方位介词（in/on/under/behind/opposite/between）与移动介词（into/across/through/along/over）的地图标注，含 across vs through vs over 辨析
+- [音标图谱](https://englift.luomor.com/phonemes)：48 个国际音标（12 单元音 + 8 双元音 + 28 辅音），清浊成对排列，附口型提示与易混音对比（如 /iː/ vs /ɪ/、/s/ vs /θ/）
+- [句子拆解](https://englift.luomor.com/sentences)：英语五大基本句型（主谓 S+V、主谓宾 S+V+O、主系表 S+V+P、双宾 S+V+Oi+Od、宾补 S+V+O+C）的词块级拆解
+- [配套练习](https://englift.luomor.com/quiz)：时态/词形/介词/音标/句法五个专项练习
+- [错题复习](https://englift.luomor.com/mistakes)：错题自动收录与复习
+
+## 关键知识点速查
+
+- 时间标志词：ago/yesterday → 一般过去时；now/look/listen → 现在进行时；since/for/already → 现在完成时；by the time → 过去/将来完成时
+- across 从表面横穿，through 从内部穿过，over 从上方越过
+- 双宾语结构 give sb. sth. = give sth. to sb.；make sb. sth. = make sth. for sb.
+- 不规则动词规律：AAA（cut-cut-cut）、ABB（buy-bought-bought）、ABA（come-came-come）、ABC（go-went-gone）
