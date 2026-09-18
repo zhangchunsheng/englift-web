@@ -1,0 +1,1 @@
+function t(n,s=.9){if(!("speechSynthesis"in window))return;window.speechSynthesis.cancel();const e=new SpeechSynthesisUtterance(n);e.lang="en-US",e.rate=s,window.speechSynthesis.speak(e)}export{t as s};
