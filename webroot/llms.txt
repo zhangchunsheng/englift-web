@@ -10,6 +10,7 @@
 - [介词街区地图](https://englift.luomor.com/prepositions)：方位介词（in/on/under/behind/opposite/between）与移动介词（into/across/through/along/over）的地图标注，含 across vs through vs over 辨析
 - [音标图谱](https://englift.luomor.com/phonemes)：48 个国际音标（12 单元音 + 8 双元音 + 28 辅音），清浊成对排列，附口型提示与易混音对比（如 /iː/ vs /ɪ/、/s/ vs /θ/）
 - [句子拆解](https://englift.luomor.com/sentences)：英语五大基本句型（主谓 S+V、主谓宾 S+V+O、主系表 S+V+P、双宾 S+V+Oi+Od、宾补 S+V+O+C）的词块级拆解
+- [随机单词](https://englift.luomor.com/words)：六个级别词库（小学/初中/高中/四级/六级/考研）随机抽词，含音标、释义、双语例句、发音播放与录音回放
 - [配套练习](https://englift.luomor.com/quiz)：时态/词形/介词/音标/句法五个专项练习
 - [错题复习](https://englift.luomor.com/mistakes)：错题自动收录与复习
 
